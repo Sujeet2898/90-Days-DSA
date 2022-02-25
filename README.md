@@ -1,5 +1,6 @@
 # 90-Days-DSA
 Data Structure and Algorithm with Java
+
 "Part 1: Basic"  :-
 1. Print All Primes Till N
 2. Print Fibonacci Numbers Till N
@@ -14,5 +15,7 @@ Data Structure and Algorithm with Java
 11. The Curious Case Of Benjamin Bulbs
 12. Different types of Pattern
 
-"Part 2: Function and Array" 
-1. 
+"Part 2: Function and Array" :-
+1. Digit Frequency
+2. Decimal To Any Base
+3. 
