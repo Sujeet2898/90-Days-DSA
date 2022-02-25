@@ -1,6 +1,6 @@
 # 90-Days-DSA
 Data Structure and Algorithm with Java
-"Part 1"  :
+"Part 1: Basic"  :-
 1. Print All Primes Till N
 2. Print Fibonacci Numbers Till N
 3. Count Digits In A Number
@@ -11,4 +11,8 @@ Data Structure and Algorithm with Java
 8. Gcd And Lcm
 9. Prime Factorisation Of A Number
 10. Pythagorean Triplet
-11. 
+11. The Curious Case Of Benjamin Bulbs
+12. Different types of Pattern
+
+"Part 2: Function and Array" 
+1. 
