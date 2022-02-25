@@ -18,4 +18,19 @@ Data Structure and Algorithm with Java
 "Part 2: Function and Array" :-
 1. Digit Frequency
 2. Decimal To Any Base
-3. 
+3. Any Base To Decimal
+4. Any Base To Any Base
+5. Any Base Addition
+6. Any Base Subtraction
+7. Any Base Multiplication
+8. Span Of Array
+9. Find Element In An Array
+10. Bar Chart
+11. Sum Of Two Arrays
+12. Difference Of Two Arrays
+13. Reverse An Array
+14. Rotate An Array
+15. Inverse Of An Array
+16. Sub Arrays Of An Array
+17. Subsets Of Array
+18. 
