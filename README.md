@@ -181,4 +181,94 @@ Data Structure and Algorithm with Java
 24. Iterative Preorder And Postorder Of Generic Tree
 
 "Part 9: Binary Tree For Beginners" :-  
-1. 
+1. Size, Sum, Maximum And Height Of A Binary Tree
+2. Levelorder Traversal Of Binary Tree
+3. Iterative Pre, Post And Inorder Traversals Of Binary Tree
+4. Find And Nodetorootpath In Binary Tree
+5. Print K Levels Down
+6. Print Nodes K Distance Away
+7. Path To Leaf From Root In Range
+8. Transform To Left-cloned Tree
+9. Transform To Normal From Left-cloned Tree
+10. Print Single Child Nodes
+11. Remove Leaves In Binary Tree
+12. Diameter Of A Binary Tree
+13. Tilt Of Binary Tree
+14. Is A Binary Search Tree
+15. Largest Bst Subtree
+16. Is Balanced Tree
+
+"Part 10: Binary Search Tree For Beginners" :- 
+1. Size, Sum, Max, Min, Find In Bst
+2. Add Node To Bst
+3. Remove Node From Bst
+4. Replace With Sum Of Larger
+5. Lca Of Bst
+6. Print In Range
+7. Target Sum Pair In Bst
+
+"Part 11: Graphs For Beginners" :- 
+1. Has Path?
+2. Print All Paths
+3. Multisolver - Smallest, Longest, Ceil, Floor, Kthlargest Path
+4. Get Connected Components Of A Graph
+5. Is Graph Connected
+6. Number Of Islands
+7. Perfect Friends
+8. Hamiltonian Path And Cycle
+9. Knights Tour
+10. Breadth First Traversal
+11. Is Graph Cyclic
+12. Is Graph Bipartite
+13. Spread Of Infection
+14. Shortest Path In Weights
+15. Minimum Wire Required To Connect All Pcs
+16. Order Of Compilation
+17. Iterative Depth First Traversal
+
+"Part 12: Hashmap And Heap For Beginners" :-  
+1. Highest Frequency Character
+2. Get Common Elements - 1
+3. Get Common Elements - 2
+4. Longest Consecutive Sequence Of Elements
+5. K Largest Elements
+6. Sort K-sorted Array
+7. Median Priority Queue
+8. Merge K Sorted Lists
+9. Write Priority Queue Using Heap
+10. Write Hashmap
+
+"Part 13: Dynamic Programming And Greedy For Beginners" :- 
+1. Fibonacci-dp
+2. Climb Stairs
+3. Climb Stairs With Variable Jumps
+4. Climb Stairs With Minimum Moves
+5. Min Cost In Maze Traversal
+6. Goldmine
+7. Target Sum Subsets - Dp
+8. Coin Change Combination
+9. Coin Change Permutations
+10. Zero One Knapsack
+11. Unbounded Knapsack
+12. Fractional Knapsack - Official
+13. Count Binary Strings
+14. Arrange Buildings
+15. Count Encodings
+16. Count A+b+c+ Subsequences
+17. Maximum Sum Non Adjacent Elements
+18. Paint House
+19. Paint House - Many Colors
+20. Paint Fence
+21. Tiling With 2 * 1 Tiles
+22. Tiling With M * 1 Tiles
+23. Friends Pairing
+24. Partition Into Subsets
+25. Buy And Sell Stocks - One Transaction Allowed
+26. Buy And Sell Stocks - Infinite Transactions Allowed
+27. Buy And Sell Stocks With Transaction Fee - Infinite Transactions Allowed
+28. Buy And Sell Stocks With Cooldown - Infinite Transaction Allowed
+29. Buy And Sell Stocks - K Transactions Allowed
+30. Buy And Sell Stocks - Two Transactions Allowed
+
+
+
