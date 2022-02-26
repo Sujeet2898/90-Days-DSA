@@ -54,7 +54,7 @@ Data Structure and Algorithm with Java
 5. Remove Primes 
 6. Print All Permutations Of A String Iteratively
 
-"Part 4: Recursion And Backtracking For Beginners" :- 
+"Part 4: Recursion And Backtracking" :- 
 1. Print Decreasing
 2. Print Increasing
 3. Print Increasing Decreasing
@@ -100,7 +100,7 @@ Data Structure and Algorithm with Java
 15. Pivot In Sorted And Rotated Array
 16. Experimental Comparsion
 
-"Part 6: Stacks And Queues For Beginners" :- 
+"Part 6: Stacks And Queues" :- 
 1. Duplicate Brackets
 2. Balanced Brackets
 3. Next Greater Element To The Right
@@ -126,7 +126,7 @@ Data Structure and Algorithm with Java
 23. Stack To Queue Adapter - Remove Efficient
 24. Two Stacks In An Array
 
-"Part 7: Linked Lists For Beginners" :- 
+"Part 7: Linked Lists" :- 
 1. Add Last In Linked List
 2. Display A Linkedlist
 3. Remove First In Linkedlist
@@ -154,7 +154,7 @@ Data Structure and Algorithm with Java
 25. Add Two Linked Lists
 26. Intersection Point Of Linked Lists
 
-"Part 8: Generic Tree For Beginners" :- 
+"Part 8: Generic Tree" :- 
 1. Size Of Generic Tree
 2. Maximum In A Generic Tree
 3. Height Of A Generic Tree
@@ -180,7 +180,7 @@ Data Structure and Algorithm with Java
 23. Diameter Of Generic Tree
 24. Iterative Preorder And Postorder Of Generic Tree
 
-"Part 9: Binary Tree For Beginners" :-  
+"Part 9: Binary Tree" :-  
 1. Size, Sum, Maximum And Height Of A Binary Tree
 2. Levelorder Traversal Of Binary Tree
 3. Iterative Pre, Post And Inorder Traversals Of Binary Tree
@@ -198,7 +198,7 @@ Data Structure and Algorithm with Java
 15. Largest Bst Subtree
 16. Is Balanced Tree
 
-"Part 10: Binary Search Tree For Beginners" :- 
+"Part 10: Binary Search Tree" :- 
 1. Size, Sum, Max, Min, Find In Bst
 2. Add Node To Bst
 3. Remove Node From Bst
@@ -207,7 +207,7 @@ Data Structure and Algorithm with Java
 6. Print In Range
 7. Target Sum Pair In Bst
 
-"Part 11: Graphs For Beginners" :- 
+"Part 11: Graphs" :- 
 1. Has Path?
 2. Print All Paths
 3. Multisolver - Smallest, Longest, Ceil, Floor, Kthlargest Path
@@ -226,7 +226,7 @@ Data Structure and Algorithm with Java
 16. Order Of Compilation
 17. Iterative Depth First Traversal
 
-"Part 12: Hashmap And Heap For Beginners" :-  
+"Part 12: Hashmap And Heap" :-  
 1. Highest Frequency Character
 2. Get Common Elements - 1
 3. Get Common Elements - 2
@@ -238,7 +238,7 @@ Data Structure and Algorithm with Java
 9. Write Priority Queue Using Heap
 10. Write Hashmap
 
-"Part 13: Dynamic Programming And Greedy For Beginners" :- 
+"Part 13: Dynamic Programming And Greedy" :- 
 1. Fibonacci-dp
 2. Climb Stairs
 3. Climb Stairs With Variable Jumps
