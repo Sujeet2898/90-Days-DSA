@@ -1,0 +1,35 @@
+import java.util.*;
+public class Main
+{
+	public static void main(String[] args) {
+	    Scanner scn = new Scanner(System.in);
+	    int n = scn.nextInt();
+	    int k = scn.nextInt();
+	    
+	    int temp = n;    // find number of digits
+	    int nod = 0;
+	    while (temp > 0) {      
+	        temp = temp / 10;      // small the temporary value
+	        nod++;                 // increase the number of digits
+	    }
+	    
+	    k = k % nod;    // taking modulus for repetive cycle
+	    if (k < 0) {    
+	        k = k + nod;  // converting negative rotation into positive rotation
+	    }
+	    int div = 1;
+	    int multi = 1;
+	    for (int i = 1; i <= nod ;i++ ){
+	        if (i <= k){
+	            div = div * 10;
+	        } else{
+	            multi = multi * 10;
+	        }
+	    }
+	    int q = n / div;   // quotient
+	    int r = n % div;   //  remender
+	    
+	    int rotingNo = r * multi + q;
+	    System.out.println(rotingNo);
+	}
+}
