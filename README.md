@@ -1,4 +1,4 @@
-# 90-Days-DSA
+# Days-DSA
 Data Structure and Algorithm with Java
 
 "Part 1: Basic"  :-
